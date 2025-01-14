@@ -56,7 +56,6 @@ class NameGuessingGame {
                 }
             }
         }
-
             scanner.close();
 
 
