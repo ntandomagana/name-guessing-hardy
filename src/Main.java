@@ -52,7 +52,7 @@ class NameGuessingGame {
                 if (attempts > 0) {
                     System.out.println("Please try again. You have " + attempts + " attempts remaining");
                 } else {
-                    System.out.println("Game over");
+                    System.out.println("You lost. Game over");
                 }
             }
         }
